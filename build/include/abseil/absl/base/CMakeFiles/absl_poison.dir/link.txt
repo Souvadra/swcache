@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libabsl_poison.a CMakeFiles/absl_poison.dir/internal/poison.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libabsl_poison.a

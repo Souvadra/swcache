@@ -1,0 +1,7 @@
+# CMake generated Testfile for 
+# Source directory: /Users/souvadrahati/Desktop/GT/swcache/include/abseil
+# Build directory: /Users/souvadrahati/Desktop/GT/swcache/build/include/abseil
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("absl")
